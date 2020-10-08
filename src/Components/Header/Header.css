@@ -1,0 +1,17 @@
+.logo{
+    margin-top: 0px;
+    float: left;
+}
+
+.nav{
+
+    margin-left: 360px;
+    margin-top: 5px;
+}
+
+.nav li{
+    display: inline;
+    margin-left: 25px;
+}
+
+
